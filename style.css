@@ -23,10 +23,10 @@ h1{
 }
 
 .chart-heading{
-    margin-left: 20%;
+    margin-left: 36%;
     display: inline;
     height: auto;
-    padding: 1.25rem;
+    padding: 1.5rem;
 }
 
 .heading{
@@ -36,8 +36,9 @@ h1{
 
 .container{
     height: auto;
-    width: 50%;
+    width: 95%;
     margin:auto;
+    margin-bottom: 1.25rem;
     padding: 1.25rem;;
     background-color: #ffffff;
     border-radius: 0.5rem;
@@ -46,24 +47,29 @@ h1{
 ul{
     margin-left: 10%;
 }
+a{
+    font-size: 25px;
+}
 p{
-    text-align: center;
+    text-align: left;
+    padding: 10px;
 }
 
 .comments{
-    width: 80%;
+    width: 100%;
     height: 60%;
-    margin-left: 10%;
     margin-bottom: 1.25rem;
     display: inline-block;
+    background-color: #f5f5f5;
 }
 
 .register-button{
-    margin-left:37%;
+    margin-left:44%;
     height: 2rem;
     width: 10rem;
     margin-bottom: 1.25rem;
     display: block;
+    font-family: 'gotham-bold', sans-serif;
 
 }
 
@@ -86,10 +92,15 @@ footer{
 
 .socials{
     display: inline;
-    margin-left: 39%;
+    margin-left: 44%;
     margin-top: 20px;
     padding: 20px;
     width: auto;
     height: auto;
+}
+
+.names{
+    font-size: 12px;
+    text-align: center;
 }
 
