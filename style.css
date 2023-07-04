@@ -4,7 +4,7 @@
 }
 
 body{
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'gotham-bold', sans-serif;
     margin: 0;
     padding: 0;
     background:linear-gradient(90deg, #ffff00,#ef0000);
@@ -14,24 +14,52 @@ body{
     padding-top: 1.25rem;
 }
 
-li{
-    list-style: none;
+.top{
+    height: 4rem;
+    width: 4rem;
+}
+h1{
+    display: inline;
+}
+
+.chart-heading{
+    margin-left: 25%;
+    display: inline;
+    height: 6rem;
+    padding: 1.25rem;
 }
 
 .heading{
     text-align:center;
 }
 
+
 .container{
     height: auto;
     width: 50%;
     margin:auto;
     padding: 1.25rem;;
-    background-color: #eeeeee;
+    background-color: #ffffff;
+    border-radius: 0.5rem;
 }
 
 .register-button{
     margin-left:37%;
     height: 2rem;
     width: 10rem;
+
 }
+
+.facebook-logo{
+    height: 2rem;
+    width: 2rem;
+}
+.insta-logo{
+    height: 2rem;
+    width: 2rem;
+}
+.github-logo{
+    height: 2rem;
+    width: 2rem;
+}
+
