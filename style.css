@@ -10,10 +10,28 @@ body{
     background:linear-gradient(90deg, #ffff00,#ef0000);
 }
 
+body{
+    padding-top: 1.25rem;
+}
+
 li{
     list-style: none;
 }
 
 .heading{
     text-align:center;
+}
+
+.container{
+    height: auto;
+    width: 50%;
+    margin:auto;
+    padding: 1.25rem;;
+    background-color: #eeeeee;
+}
+
+.register-button{
+    margin-left:37%;
+    height: 2rem;
+    width: 10rem;
 }
